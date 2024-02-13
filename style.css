@@ -5,6 +5,9 @@
    box-sizing: border-box; /*박스 영역 테두리까지 지정*/
    margin: 0 auto;/*화면 중앙에 배치*/
 }
+.menu_wrap {
+  display: none;
+}
 a:visited {
   color: #505050;
   text-decoration: none;
